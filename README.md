@@ -22,11 +22,15 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white"/>
   <img src="https://img.shields.io/badge/jQuery-0769AD.svg?&style=for-the-badge&logo=jQuery&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3.svg?&style=for-the-badge&logo=Bootstrap&logoColor=white"/>
   <br>
   <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00.svg?&style=for-the-badge&logo=AdobeIllustrator&logoColor=white"/>
   <img src="https://img.shields.io/badge/Figma-F24E1E.svg?&style=for-the-badge&logo=Figma&logoColor=white"/>
   <img src="https://img.shields.io/badge/Adobe%20XD-FF61F6.svg?&style=for-the-badge&logo=AdobeXD&logoColor=white"/>
   <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?&style=for-the-badge&logo=AdobePremierePro&logoColor=white">
+  <br>
+  <img src="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white">
+  <img src="https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white">
 </p>
   
   
