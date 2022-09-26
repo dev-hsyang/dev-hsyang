@@ -42,8 +42,8 @@
 <h3 align="center">🛠 Git Status 🛠</h3>
 <br>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dev-hsyang&show_icons=true&count_private=true"> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-hsyang&layout=compact"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=dev-hsyang&show_icons=true&count_private=true&hide=stars"> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-hsyang&layout=compact">
 </div>
 
 
