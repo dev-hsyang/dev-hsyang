@@ -4,9 +4,12 @@
 <!-- https://github.com/kyechan99/capsule-render#how-to-use --> <!-- header 사용법 -->
 </p>
 
+<br>
+
 <h3 align="center">📚 Tech Stack 📚</h3>
 
 <p align="center">
+  <br>
   <img src="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white"/>
   <img src="https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=Cplusplus&logoColor=white"/>
@@ -35,15 +38,21 @@
   <img src="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white">
   <img src="https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white">
 </p>
-  
-  
+
+<br>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dev-hsyang&show_icons=true&count_private=true&hide=stars"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-hsyang&layout=compact"/>
+</p>
+
   
   
   
   <!--
 **dev-hsyang/dev-hsyang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas to get you started:![Uploading image.png…]()
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
