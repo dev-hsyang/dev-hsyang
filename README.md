@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=waving&colot=timeAuto&height=200&text=HYUN%20SEUNG&animation=blink&fontColor=FFFFFF&fontSize=70" />
 <!--
 **dev-hsyang/dev-hsyang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
