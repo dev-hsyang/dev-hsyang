@@ -8,7 +8,7 @@
 
 <h3 align="center">📚 Tech Stack 📚</h3>
 
-<p align="center">
+<div align="center">
   <br>
   <img src="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white"/>
   <img src="https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=white"/>
@@ -37,14 +37,15 @@
   <br>
   <img src="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white">
   <img src="https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white">
-</p>
+</div>
 
 <br>
-
-<p align="center">
+<h3 align="center">🛠 Git Status 🛠</h3>
+<br>
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dev-hsyang&show_icons=true&count_private=true"> 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-hsyang&layout=compact"/>
-</p>
+</div>
 
   
   
