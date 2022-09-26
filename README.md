@@ -1,6 +1,6 @@
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=HYUN%20SEUNG&animation=blink&fontColor=FFFFFF&fontSize=70" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&text=HYUN%20SEUNG&animation=blink&fontColor=FFFFFF&fontSize=70" />
 <!-- https://github.com/kyechan99/capsule-render#how-to-use --> <!-- header 사용법 -->
 </p>
 
