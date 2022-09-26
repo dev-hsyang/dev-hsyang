@@ -1,10 +1,8 @@
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&text=HYUN%20SEUNG&animation=blink&fontColor=FFFFFF&fontSize=70" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&text=HYUN%20SEUNG&animation=blink&fontColor=FFFFFF&fontSize=60" />
 <!-- https://github.com/kyechan99/capsule-render#how-to-use --> <!-- header 사용법 -->
 </p>
-
-<br>
 
 <h3 align="center">📚 Tech Stack 📚</h3>
 
@@ -37,6 +35,7 @@
   <br>
   <img src="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white">
   <img src="https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white">
+  <br>
 </div>
 
 <br>
@@ -47,7 +46,14 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-hsyang&layout=compact"/>
 </div>
 
-  
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=footer" />
+</div>
+
   
   
   <!--
