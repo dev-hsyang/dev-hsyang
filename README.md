@@ -18,6 +18,7 @@
   <img src="https://img.shields.io/badge/JPA-6DB33F.svg?&style=for-the-badge&logo=JPA&logoColor=white"/>
   <img src="https://img.shields.io/badge/JUnit5-25A162.svg?&style=for-the-badge&logo=JUnit5&logoColor=white"/>
   <img src="https://img.shields.io/badge/QueryDSL-00599C.svg?&style=for-the-badge&logo=QueryDSL&logoColor=white"/>
+  <br>
   <img src="https://img.shields.io/badge/OpenGL-5586A4.svg?&style=for-the-badge&logo=OpenGL&logoColor=white"/>
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8.svg?&style=for-the-badge&logo=OpenCV&logoColor=white"/>
   <br>
