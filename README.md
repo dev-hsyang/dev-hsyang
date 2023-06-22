@@ -19,6 +19,10 @@
   <img src="https://img.shields.io/badge/JUnit5-25A162.svg?&style=for-the-badge&logo=JUnit5&logoColor=white"/>
   <img src="https://img.shields.io/badge/QueryDSL-00599C.svg?&style=for-the-badge&logo=QueryDSL&logoColor=white"/>
   <br>
+  <img src="https://img.shields.io/badge/Amazon%20EC2-FF9900.svg?&style=for-the-badge&logo=Amazonec2&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Amazon%20RDS-527FFF.svg?&style=for-the-badge&logo=Amazonrds&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Travis%20CI-3EAAAF.svg?&style=for-the-badge&logo=TravisCI&logoColor=white"/>
+  <br>
   <img src="https://img.shields.io/badge/OpenGL-5586A4.svg?&style=for-the-badge&logo=OpenGL&logoColor=white"/>
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8.svg?&style=for-the-badge&logo=OpenCV&logoColor=white"/>
   <br>
