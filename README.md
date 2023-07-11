@@ -48,10 +48,14 @@
 <h3 align="center">🛠 Status 🛠</h3>
 <br>
 <div align="center">
-<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-hsyang&layout=compact"> -->
   <img src="https://github-readme-stats.vercel.app/api?username=dev-hsyang&show_icons=true&theme=radical">
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj={https://solved.ac/profile/dev_hsyang}">
+  <a href="https://solved.ac/dev_hsyang"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dev_hsyang" alt="Solved.ac Profile"></a>
+<!--   <p>
+  <a href="&quot;https://cocoon1787.tistory.com/"><img src="https://img.shields.io/badge/Tech%20Blog-555263?style=flat&amp;logoColor=white" alt="Tistory Badge"></a>
+  </p> -->
 </div>
+
+
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=footer" />
