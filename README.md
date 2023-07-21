@@ -66,8 +66,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=footer" />
 </div>
 
-  
-WOW! commit이 모두 사라졌어요!
+<div align="center">
+  <h1>WOW! commit이 모두 사라졌어요!</h1>
+</div>
   <!--
 **dev-hsyang/dev-hsyang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
