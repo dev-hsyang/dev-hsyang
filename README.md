@@ -67,7 +67,6 @@
 </div>
 
 <div align="center">
-  <h1>WOW! commit이 모두 사라졌어요!</h1>
 </div>
   <!--
 **dev-hsyang/dev-hsyang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
