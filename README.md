@@ -11,8 +11,8 @@
 ***
 
 **Work**
-* **CJ CheilJedang** &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp;  Digital Business Platform) Service Development Team (2024.01 ~ curr)
-* **KONAI** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;   | &nbsp; &nbsp;  Platform Development) Web Developent Team (2022.07 ~ 2022.12)
+* **CJ CheilJedang** &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp;  Digital Business Platform) Service Development Team - Software Engineer Specialist *(2024.01 ~ curr)*
+* **KONAI** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;   | &nbsp; &nbsp;  Platform Development) Web Developent Team - Web Developer Intern *(2022.07 ~ 2022.12)*
 
 <br>
 
