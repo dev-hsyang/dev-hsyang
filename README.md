@@ -2,7 +2,7 @@
 
 <br>
 
-**AS-IS** &nbsp; &nbsp;  | &nbsp; &nbsp; Software engineer of [CJ THE MARKET (WEB/APP)](https://www.cjthemarket.com/pc/main) at [CJCJ](https://www.cj.co.kr/kr/index)
+**AS-IS** &nbsp; &nbsp;  | &nbsp; &nbsp; Software engineer of [**CJ THE MARKET**(WEB/APP)](https://www.cjthemarket.com/pc/main) at [**CJCJ**](https://www.cj.co.kr/kr/index)
 
 **TO-BE**&nbsp; &nbsp; | &nbsp; &nbsp; Progressive service software developer
 
