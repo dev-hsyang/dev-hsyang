@@ -3,6 +3,7 @@
 <br>
 
 **AS-IS** &nbsp; &nbsp;  | &nbsp; &nbsp; Software engineer of [**CJ THE MARKET**(WEB/APP)](https://www.cjthemarket.com/pc/main)
+
 **TO-BE**&nbsp; &nbsp; | &nbsp; &nbsp; Progressive service software developer
 
 <br>
