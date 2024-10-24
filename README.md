@@ -2,7 +2,7 @@
 
 <br>
 
-* **AS-IS**　 **|**　Software engineer of [**CJ THE MARKET**(WEB/APP)](https://www.cjthemarket.com/pc/main)
+* **AS-IS**　 **|**　Software developer of [**CJ THE MARKET**(WEB/APP)](https://www.cjthemarket.com/pc/main)
 
 * **TO-BE**　**|**　Progressive service developer
 
