@@ -2,9 +2,9 @@
 
 <br>
 
-* **AS-IS**　 |　Software engineer of [**CJ THE MARKET**(WEB/APP)](https://www.cjthemarket.com/pc/main)
+* **AS-IS**　 **|**　Software engineer of [**CJ THE MARKET**(WEB/APP)](https://www.cjthemarket.com/pc/main)
 
-* **TO-BE**　|　Progressive service developer
+* **TO-BE**　**|**　Progressive service developer
 
 <br>
 
@@ -22,7 +22,7 @@
 
 
 ### **Education**
-* **Ajou University**　|　Digital Media Bachelor's degree (2017.01 ~ 2023.08)
+* **Ajou University**　**|**　Digital Media Bachelor's degree (2017.01 ~ 2023.08)
 
 
 <br>
