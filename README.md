@@ -10,7 +10,7 @@
 
 ***
 
-**Work**
+### **Work**
 |Company|Department|Position|Employment Period|
 |--------|--------|--------|--------|
 |**CJ CheilJedang**|Platform) Service Development Team|Software Engineer Specialist|2024.01 ~ curr|
@@ -20,14 +20,15 @@
 <br>
 
 
-**Education**
+
+### **Education**
 * **Ajou University** 　|　　Digital Media Bachelor's degree (2017.01 ~ 2023.08)
 
 
 <br>
 
 
-**Tech**
+### **Tech**
 |Languages|Frameworks|Tools|
 |----|----|----|
 |Java, JavaScript|Spring, Vue.js|Gitlab, AWS|
@@ -36,7 +37,7 @@
 <br>
 
 
-**Portfolio**
+### **Portfolio**
 * coming soon
 
 ***
