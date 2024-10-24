@@ -12,23 +12,23 @@
 
 **Work**
 
-* **CJ CheilJedang**　　　|　　Digital Business Platform) Service Development Team - Software Engineer Specialist *(2024.01 ~ curr)*
-* **KONAI**　　　　　　　　|　　 Platform Development) Web Developent Team - Web Developer Intern *(2022.07 ~ 2022.12)*
+* **CJ CheilJedang**　　|　　Digital Business Platform) Service Development Team - Software Engineer Specialist *(2024.01 ~ curr)*
+* **KONAI**　　　　　　　|　　 Platform Development) Web Developent Team - Web Developer Intern *(2022.07 ~ 2022.12)*
 
 
 <br>
 
 **Education**
-* **Ajou University** 　　　|　　 Digital Media Bachelor's degree (2017.01 ~ 2023.08)
+* **Ajou University** 　　|　　 Digital Media Bachelor's degree (2017.01 ~ 2023.08)
 
 
 
 <br>
 
 **Tech**
-* **Languages**　　　　　　|　　Java, JavaScript
-* **Frameworks** 　　　　　|　　Spring, Vue.js
-* **Tool**　　　　　　　　　　|　　Gitlab, AWS
+* **Languages**　　　　　|　　Java, JavaScript
+* **Frameworks** 　　　　|　　Spring, Vue.js
+* **Tool**　　　　　　　　　|　　Gitlab, AWS
 
 <br>
 
