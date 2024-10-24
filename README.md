@@ -22,7 +22,7 @@
 
 
 ### **Education**
-* **Ajou University** 　|　　Digital Media Bachelor's degree (2017.01 ~ 2023.08)
+* **Ajou University**　|　Digital Media Bachelor's degree (2017.01 ~ 2023.08)
 
 
 <br>
