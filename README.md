@@ -2,9 +2,9 @@
 
 <br>
 
-**AS-IS** &nbsp; | &nbsp; Software engineer of [**CJ THE MARKET**(WEB/APP)](https://www.cjthemarket.com/pc/main)
+**AS-IS**　 |　Software engineer of [**CJ THE MARKET**(WEB/APP)](https://www.cjthemarket.com/pc/main)
 
-**TO-BE** &nbsp; | &nbsp; Progressive service software developer
+**TO-BE**　|　Progressive service software developer
 
 <br>
 
@@ -12,23 +12,23 @@
 
 **Work**
 
-* **CJ CheilJedang** &nbsp; | &nbsp; Digital Business Platform) Service Development Team - Software Engineer Specialist *(2024.01 ~ curr)*
-* **KONAI** &nbsp;| &nbsp; Platform Development) Web Developent Team - Web Developer Intern *(2022.07 ~ 2022.12)*
+* **CJ CheilJedang**　　　|　　Digital Business Platform) Service Development Team - Software Engineer Specialist *(2024.01 ~ curr)*
+* **KONAI**　　　　　　　　|　　 Platform Development) Web Developent Team - Web Developer Intern *(2022.07 ~ 2022.12)*
 
 
 <br>
 
 **Education**
-* **Ajou University**  &nbsp; | &nbsp; Digital Media Bachelor's degree (2017.01 ~ 2023.08)
+* **Ajou University** 　　　|　　 Digital Media Bachelor's degree (2017.01 ~ 2023.08)
 
 
 
 <br>
 
 **Tech**
-* **Languages** &nbsp; | &nbsp; Java, JavaScript
-* **Frameworks** &nbsp; | &nbsp; Spring, Vue.js
-* **Tool** &nbsp; | &nbsp; Gitlab, AWS
+* **Languages**　　　　　　|　　Java, JavaScript
+* **Frameworks** 　　　　　|　　Spring, Vue.js
+* **Tool**　　　　　　　　　　|　　Gitlab, AWS
 
 <br>
 
