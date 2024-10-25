@@ -38,10 +38,11 @@
 
 
 ### **Portfolio.**
-* [**Notion**](https://hs-yang.notion.site/Hyunseung-Yang-Junior-Software-Developer-12959c815637800b98a7c303e3681015?pvs=4)
+* [**CLICK**](https://hs-yang.notion.site/Hyunseung-Yang-Junior-Software-Developer-12959c815637800b98a7c303e3681015?pvs=4)
 
 ***
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=dev_hsyang)](https://solved.ac/dev_hsyang)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hyunseungyang/)](https://www.linkedin.com/in/hyunseungyang/)
+[![Notion Badge](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white)](https://hs-yang.notion.site/Hyunseung-Yang-Junior-Software-Developer-12959c815637800b98a7c303e3681015?pvs=4)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dev.hsyang@gmail.com)](mailto:dev.hsyang@gmail.com)
