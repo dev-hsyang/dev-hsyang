@@ -10,7 +10,7 @@
 
 ***
 
-### **Career.**
+### **Work.**
 |Company|Department|Position|Employment Period|
 |--------|--------|--------|--------|
 |**CJ CheilJedang** 　　|Platform) Service Development Team　　|Software Engineer Specialist　　|2024.01 ~ curr　　|
