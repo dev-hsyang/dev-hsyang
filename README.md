@@ -37,7 +37,7 @@
 <br>
 
 
-### **Portfolio**
+### **Portfolio.**
 * [**CLICK**](https://hs-yang.notion.site/Hyunseung-Yang-Junior-Software-Developer-12959c815637800b98a7c303e3681015?pvs=4)
 
 ***
