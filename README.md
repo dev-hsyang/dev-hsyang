@@ -29,9 +29,9 @@
 
 
 ### **Tech.**
-|Languages|Frameworks|Tools|
-|----|----|----|
-|Java, JavaScript　　|Spring, Vue.js　　|Gitlab, AWS　　|
+|Languages|Frameworks|Tools|Database|
+|----|----|----|----|
+|Java, JavaScript　　|Spring, Vue.js　　|Gitlab, AWS　　|Oracle, MariaDB　　|
 
 
 <br>
