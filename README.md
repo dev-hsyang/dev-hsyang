@@ -13,8 +13,8 @@
 ### **Work.**
 |Company|Department|Position|Employment Period|
 |--------|--------|--------|--------|
-|**CJ CheilJedang** 　　|Platform) Service Development Team　　|Software Engineer Specialist　　|2024.01 ~ curr　　|
-|**KONAI**|Web Development Team|Web Developer Intern|2022.07 ~ 2022.12|
+|[**CJ CheilJedang**](https://www.cj.co.kr/kr/index) 　　|Platform) Service Development Team　　|Software Engineer Specialist　　|2024.01 ~ curr　　|
+|[**KONAI**](https://www.konai.com)|Web Development Team|Web Developer Intern|2022.07 ~ 2022.12|
 
 
 <br>
