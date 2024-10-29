@@ -20,17 +20,17 @@
 <br>
 
 
-### **Tech.**
-|Languages|Frameworks|Tools|Database|
-|----|----|----|----|
-|Java, JavaScript　　|Spring, Vue.js　　|Gitlab, AWS　　|Oracle, MariaDB　　|
+### **Education.**
+* **Ajou University**　**|**　Digital Media Bachelor's degree (2017.01 ~ 2023.08)
 
 
 <br>
 
 
-### **Education.**
-* **Ajou University**　**|**　Digital Media Bachelor's degree (2017.01 ~ 2023.08)
+### **Tech.**
+|Languages|Frameworks|Tools|Database|
+|----|----|----|----|
+|Java, JavaScript　　|Spring, Vue.js　　|Gitlab, AWS　　|Oracle, MariaDB　　|
 
 
 <br>
