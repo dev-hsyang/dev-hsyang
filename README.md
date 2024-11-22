@@ -2,7 +2,7 @@
 
 <br>
 
-* **AS-IS**　 **|**　Software developer of [**CJ THE MARKET**(WEB/APP)](https://www.cjthemarket.com/pc/main)
+* **AS-IS**　 **|**　Platform Service developer of [**CJ THE MARKET**(WEB/APP)](https://www.cjthemarket.com/pc/main)
 
 * **TO-BE**　**|**　Progressive service developer
 
@@ -11,10 +11,8 @@
 ***
 
 ### **Work.**
-|Company|Department|Position|Employment Period|
-|--------|--------|--------|--------|
-|[**CJ CheilJedang**](https://www.cj.co.kr/kr/index) 　　|Platform) Service Development Team　　|Software Engineer Specialist　　|2024.01 ~ curr　　|
-|[**KONAI**](https://www.konai.com)|Web Development Team|Web Developer Intern|2022.07 ~ 2022.12|
+* [**CJ CheilJedang**](https://www.cj.co.kr/kr/index)　**|**　Software Engineer (2024.01 ~)
+* [**KONAI**](https://www.konai.com)　**|**　Web Developer Intern (2022.07 ~ 2022.12)
 
 
 <br>
@@ -28,10 +26,10 @@
 
 
 ### **Tech.**
-|Languages|Frameworks|Tools|Database|
-|----|----|----|----|
-|Java, JavaScript　　|Spring, Vue.js　　|Gitlab, AWS　　|Oracle, MariaDB　　|
-
+* **Language**　**|**　Java, JavaScript
+* **Frameworks**　**|**　Spring Boot, Vue.js
+* **Database**　**|**　Oracle, MariaDB
+* **Tools**　**|**　Gitlab, AWS
 
 <br>
 
